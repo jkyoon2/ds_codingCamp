@@ -45,7 +45,8 @@
    - GrepCommand + Debugging
    - Logging
 2. File Structure
-'''02_python
+'''
+02_python
 ├── commands
 │   ├── base_command.py
 │   ├── change_directory_command.py
@@ -65,6 +66,7 @@
 └── utils
     ├── command_handler.py
     └── command_parser.py
+
 '''
 ### Numpy 
 1. Numpy basics
