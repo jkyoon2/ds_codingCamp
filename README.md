@@ -45,7 +45,7 @@
    - GrepCommand + Debugging
    - Logging
 2. File Structure
-'''
+~~~
 02_python
 ├── commands
 │   ├── base_command.py
@@ -67,7 +67,7 @@
     ├── command_handler.py
     └── command_parser.py
 
-'''
+~~~
 ### Numpy 
 1. Numpy basics
 2. Gradient Descent
